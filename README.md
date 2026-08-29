@@ -1,16 +1,26 @@
-## Hi there 👋
+# BrutalFoundry
 
-<!--
-**Brutal-BrutalFoundry/Brutal-BrutalFoundry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent software, tools, automation, game mods, and experiments.
 
-Here are some ideas to get you started:
+I'm **Brutal**, the developer behind BrutalFoundry. I build things that solve problems, connect systems, improve workflows, or are simply interesting enough to be worth making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+### Cyllaris
+
+My current software project, preparing for public release.
+
+More details coming soon.
+
+## What I Build
+
+- Software and utilities
+- Automation and integrations
+- Developer tools and bridges
+- Game mods and modding tools
+- AI and local-model experiments
+- Whatever else seems worth building
+
+## Projects
+
+This account is new. Projects will appear here as they are ready for public release.
