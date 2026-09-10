@@ -22,5 +22,5 @@ More details coming soon.
 - Whatever else seems worth building
 
 ## Projects
-
-This account is new. Projects will appear here as they are ready for public release.
+Cyllaris
+BrutalDesk
