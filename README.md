@@ -22,5 +22,5 @@ More details coming soon.
 - Whatever else seems worth building
 
 ## Projects
-Cyllaris
-BrutalDesk
+- Cyllaris
+- BrutalDesk
