@@ -1,6 +1,7 @@
 # Christopher M. ("Brutal") | BrutalFoundry
 
 **Software Developer | Systems Engineering, Automation & Applied AI**
+**Looking for BrutalDash?** [Downloads and release notes](https://github.com/Brutal-BrutalFoundry/BrutalDash/releases) · [Installation guide](https://github.com/Brutal-BrutalFoundry/BrutalDash/blob/main/INSTALLATION.md) · [Features](https://github.com/Brutal-BrutalFoundry/BrutalDash/blob/main/FEATURES.md)
 
 Hi, I'm Christopher, known online as Brutal, the developer behind BrutalFoundry. I build software that connects systems, automates practical work, and makes useful information easier to act on.
 
@@ -20,7 +21,7 @@ The showcase covers authorization boundaries, request and result correlation, re
 
 **Private personal system · Public engineering case study · No public release planned**
 
-Theo is the local AI system I build for my own workstation. Its goal spans research, reasoning, writing, persistent project memory, computer assistance, and application development. The implemented foundation brings together local inference, project context, tool orchestration, and source-linked research on Windows.
+The name Theo is drawn from Prometheus. Theo is the local AI system I build for my own workstation. Its goal spans research, reasoning, writing, persistent project memory, computer assistance, and application development. The implemented foundation brings together local inference, project context, tool orchestration, and source-linked research on Windows.
 
 The case study examines research provenance and citation validation, context recovery, model lifecycle management, and inference under real RAM and VRAM constraints. Recent work strengthens command approval and package recovery, with selected contract and disposable adapter evidence. End-to-end approval scope and presentation, broader research acceptance, and clean-environment recovery remain under validation.
 
