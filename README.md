@@ -10,13 +10,15 @@ My work spans controlled execution systems, private local AI infrastructure, and
 
 ## Cyllaris
 
-**Private source · Public technical showcase**
+**Your AI, working with your PC. You control the permitted work.**
 
-Cyllaris explores how AI-requested actions can reach a Windows machine while keeping execution authority with its operator. The engineering centers on a provider-independent Core, separate requester and operator roles, an independent emergency-stop path, and durable execution records.
+[![Cyllaris interactive demo showing the AI conversation beside the Precision controls](https://raw.githubusercontent.com/Brutal-BrutalFoundry/Cyllaris/main/cyllaris-demo.png)](https://brutal-brutalfoundry.github.io/Cyllaris/)
 
-The showcase covers authorization boundaries, request and result correlation, recovery from uncertain outcomes, runtime identity, and the challenges of integrating browser clients without giving them control authority. Development and integration validation are ongoing.
+Cyllaris is being built to connect your chosen AI with files and installed tools on Windows, carrying permitted actions and their results through your conversation. Its intended uses include personal projects, professional workflows and technical work.
 
-[Explore the technical showcase](https://github.com/Brutal-BrutalFoundry/Cyllaris)
+**[Try the interactive demo](https://brutal-brutalfoundry.github.io/Cyllaris/)** · [Explore the technical showcase](https://github.com/Brutal-BrutalFoundry/Cyllaris)
+
+*Private source. In development. The demo uses fictional data and runs entirely in your browser, with no download or access to your PC.*
 
 ## Project Theo
 
@@ -59,3 +61,4 @@ BrutalPanel is a standalone Windows dashboard project building on the experience
 Development is at the foundation stage. Standalone hosting, local telemetry, customization, and reliable import and recovery are the next engineering milestones. BrutalDash remains the separate, free Car Thing edition.
 
 Thanks for taking a look. Each project offers a different view of how I approach design, implementation, and verification.
+
