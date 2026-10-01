@@ -29,9 +29,18 @@ The case study examines research provenance and citation validation, context rec
 ## BrutalDash
 
 **Public source · Released software**
-[![BrutalDash with hardware telemetry, device battery monitoring, and media controls](assets/brutaldash-v0.1.61.png)](https://github.com/Brutal-BrutalFoundry/BrutalDash)
+<table>
+<tr>
+<td width="50%"><a href="assets/brutaldash-v0.1.61.png"><img src="assets/brutaldash-v0.1.61.png" alt="BrutalDash hardware telemetry and media controls" width="400"></a><br><strong>Telemetry and media</strong></td>
+<td width="50%"><a href="assets/brutaldash-gaming-v0.1.60.png"><img src="assets/brutaldash-gaming-v0.1.60.png" alt="BrutalDash Gaming Focus with FPS and frametime" width="400"></a><br><strong>Gaming Focus</strong></td>
+</tr>
+<tr>
+<td width="50%"><a href="assets/brutaldash-battery-v0.1.60.png"><img src="assets/brutaldash-battery-v0.1.60.png" alt="BrutalDash battery monitoring for headset, mouse, and keyboard" width="400"></a><br><strong>Device Battery</strong></td>
+<td width="50%"><a href="assets/brutaldash-inference-v0.1.60.png"><img src="assets/brutaldash-inference-v0.1.60.png" alt="BrutalDash local inference monitoring with a high-memory alert" width="400"></a><br><strong>Local inference and memory alerts</strong></td>
+</tr>
+</table>
 
-*BrutalDash v0.1.61 with hardware telemetry, device battery monitoring, and media controls.*
+*Screenshots from BrutalDash v0.1.60 and v0.1.61. Select an image to view it at full size. Hardware and readings are examples from one PC.*
 
 BrutalDash turns a BridgeThing-powered Car Thing into a customizable Windows PC telemetry dashboard. It combines hardware readings, game performance, device battery information, and local inference monitoring with saved layouts and themes.
 
