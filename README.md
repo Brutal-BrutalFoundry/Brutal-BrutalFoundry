@@ -4,7 +4,7 @@
 
 Hi, I'm Christopher, known online as Brutal, the developer behind BrutalFoundry. I build software that connects systems, automates practical work, and makes useful information easier to act on.
 
-My work spans controlled execution systems, private local AI infrastructure, and released Windows software. These three projects show different sides of that work.
+My work spans controlled execution systems, private local AI infrastructure, and released Windows software. These projects show different sides of that work.
 
 ## Cyllaris
 
@@ -35,5 +35,13 @@ BrutalDash turns a BridgeThing-powered Car Thing into a customizable Windows PC 
 This project brings the work through to a usable release: Windows integration, device interaction, persistent settings, installable bundles, screenshots, and installation documentation. It is the public source and shipping side of the portfolio.
 
 [Browse the project](https://github.com/Brutal-BrutalFoundry/BrutalDash) · [Downloads](https://github.com/Brutal-BrutalFoundry/BrutalDash/releases) · [Installation](https://github.com/Brutal-BrutalFoundry/BrutalDash/blob/main/INSTALLATION.md)
+
+## BrutalPanel
+
+**Private source · In development**
+
+BrutalPanel is a standalone Windows dashboard project building on the experience behind BrutalDash. The goal is to let people shape a performance dashboard around their PC, with editable layouts, personal backgrounds, and portable designs that adapt to another machine’s hardware.
+
+Development is at the foundation stage. Standalone hosting, local telemetry, customization, and reliable import and recovery are the next engineering milestones. BrutalDash remains the separate, free Car Thing edition.
 
 Thanks for taking a look. Each project offers a different view of how I approach design, implementation, and verification.
