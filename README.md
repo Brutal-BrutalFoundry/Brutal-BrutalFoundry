@@ -1,9 +1,9 @@
-# Christopher M. ("Brutal") | BrutalFoundry
+# Christopher M. | BrutalFoundry
 
 **Software Developer | Systems Engineering, Automation & Applied AI**
 **Looking for BrutalDash?** [Downloads and release notes](https://github.com/Brutal-BrutalFoundry/BrutalDash/releases) · [Installation guide](https://github.com/Brutal-BrutalFoundry/BrutalDash/blob/main/INSTALLATION.md) · [Features](https://github.com/Brutal-BrutalFoundry/BrutalDash/blob/main/FEATURES.md)
 
-Hi, I'm Christopher, known online as Brutal, the developer behind BrutalFoundry. I build software that connects systems, automates practical work, and makes useful information easier to act on.
+Hi, I'm Christopher, the developer behind BrutalFoundry. I build software that connects systems, automates practical work, and makes useful information easier to act on.
 
 My work spans controlled execution systems, private local AI infrastructure, and released Windows software. These projects show different sides of that work.
 
