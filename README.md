@@ -29,6 +29,9 @@ The case study examines research provenance and citation validation, context rec
 ## BrutalDash
 
 **Public source · Released software**
+[![BrutalDash with hardware telemetry, device battery monitoring, and media controls](assets/brutaldash-v0.1.61.png)](https://github.com/Brutal-BrutalFoundry/BrutalDash)
+
+*BrutalDash v0.1.61 with hardware telemetry, device battery monitoring, and media controls.*
 
 BrutalDash turns a BridgeThing-powered Car Thing into a customizable Windows PC telemetry dashboard. It combines hardware readings, game performance, device battery information, and local inference monitoring with saved layouts and themes.
 
