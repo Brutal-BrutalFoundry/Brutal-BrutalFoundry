@@ -24,6 +24,22 @@ Cyllaris is being built to connect your chosen AI with files and installed tools
 
 **Private personal system · Public engineering case study · No public release planned**
 
+**A local AI assistant built around my workstation and ongoing projects.**
+
+```mermaid
+flowchart LR
+    P["Project context"] --> T["Theo orchestration"]
+    U["Your request"] --> T
+    T <--> M["Local model"]
+    T --> R["Research and sources"]
+    T --> W["Workstation tools"]
+    R --> E["Evidence and outcome checks"]
+    W --> E
+    E --> A["Response and task assessment"]
+```
+
+*Conceptual architecture. Individual tool results do not establish that an entire task succeeded.*
+
 The name Theo is drawn from Prometheus. Theo is the local AI system I build for my own workstation. Its goal spans research, reasoning, writing, persistent project memory, computer assistance, and application development. The implemented foundation brings together local inference, project context, tool orchestration, and source-linked research on Windows.
 
 The case study examines research provenance and citation validation, context recovery, model lifecycle management, and inference under real RAM and VRAM constraints. Recent work strengthens command approval and package recovery, with selected contract and disposable adapter evidence. End-to-end approval scope and presentation, broader research acceptance, and clean-environment recovery remain under validation.
@@ -61,4 +77,3 @@ BrutalPanel is a standalone Windows dashboard project building on the experience
 Development is at the foundation stage. Standalone hosting, local telemetry, customization, and reliable import and recovery are the next engineering milestones. BrutalDash remains the separate, free Car Thing edition.
 
 Thanks for taking a look. Each project offers a different view of how I approach design, implementation, and verification.
-
