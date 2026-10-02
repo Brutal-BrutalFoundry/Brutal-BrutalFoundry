@@ -77,3 +77,7 @@ BrutalPanel is a standalone Windows dashboard project building on the experience
 Development is at the foundation stage. Standalone hosting, local telemetry, customization, and reliable import and recovery are the next engineering milestones. BrutalDash remains the separate, free Car Thing edition.
 
 Thanks for taking a look. Each project offers a different view of how I approach design, implementation, and verification.
+
+## Get in touch
+
+For project enquiries or collaboration, email [BrutalFoundry@gmail.com](mailto:BrutalFoundry@gmail.com).
