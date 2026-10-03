@@ -1,28 +1,32 @@
-# Christopher M. | BrutalFoundry
+# Christopher M. ("Brutal") | BrutalFoundry
 
 **Software Developer | Systems Engineering, Automation & Applied AI**
 
 **Looking for BrutalDash?** [Downloads and release notes](https://github.com/Brutal-BrutalFoundry/BrutalDash/releases) · [Installation guide](https://github.com/Brutal-BrutalFoundry/BrutalDash/blob/main/INSTALLATION.md) · [Features](https://github.com/Brutal-BrutalFoundry/BrutalDash/blob/main/FEATURES.md)
 
-Hi, I'm Christopher, the developer behind BrutalFoundry. I build software that connects systems, automates practical work, and makes useful information easier to act on.
+Hi, I'm Brutal, the developer behind BrutalFoundry.
 
-My work spans controlled execution systems, private local AI infrastructure, and released Windows software. These projects show different sides of that work.
+I build software because I like solving hard problems and turning ideas into working systems. My projects range from released Windows software to AI tooling, local model infrastructure, automation, and whatever else is interesting enough to build.
 
-## Cyllaris
+Welcome to my developer home. You'll find projects I'm building, software I've released, and notes on the work as it develops.
+
+## Current projects
+
+### Cyllaris
 
 **Your AI, working with your PC. You control the permitted work.**
 
 [![Cyllaris interactive demo showing the AI conversation beside the Precision controls](https://raw.githubusercontent.com/Brutal-BrutalFoundry/Cyllaris/main/cyllaris-demo.png)](https://brutal-brutalfoundry.github.io/Cyllaris/)
 
-Cyllaris is being built to connect your chosen AI with files and installed tools on Windows, carrying permitted actions and their results through your conversation. Its intended uses include personal projects, professional workflows and technical work.
+Cyllaris is a control layer between AI intent and machine execution, focused on authorization, verification, and keeping execution authority outside the model. It is being built to connect your chosen AI with files and installed tools on Windows, carrying permitted actions and their results through your conversation. Its intended uses include personal projects, professional workflows and technical work.
 
 **[Try the interactive demo](https://brutal-brutalfoundry.github.io/Cyllaris/)** · [Explore the technical showcase](https://github.com/Brutal-BrutalFoundry/Cyllaris)
 
 *Private source. In development. The demo uses fictional data and runs entirely in your browser, with no download or access to your PC.*
 
-## Project Theo
+### Project Theo
 
-**Private personal system · Public engineering case study · No public release planned**
+**Private personal system · In active development · No public release planned**
 
 **A local AI assistant built around my workstation and ongoing projects.**
 
@@ -42,11 +46,11 @@ flowchart LR
 
 The name Theo is drawn from Prometheus. Theo is the local AI system I build for my own workstation. Its goal spans research, reasoning, writing, persistent project memory, computer assistance, and application development. The implemented foundation brings together local inference, project context, tool orchestration, and source-linked research on Windows.
 
-The case study examines research provenance and citation validation, context recovery, model lifecycle management, and inference under real RAM and VRAM constraints. Recent work strengthens command approval and package recovery, with selected contract and disposable adapter evidence. End-to-end approval scope and presentation, broader research acceptance, and clean-environment recovery remain under validation.
+I use Theo for research and development while working on persistent project context, tool use, and local model orchestration. Current work includes research provenance and citation validation, context recovery, model lifecycle management, command approval, and reliable recovery under real RAM and VRAM constraints. These pieces are still being developed and validated.
 
-[Read the engineering case study](https://github.com/Brutal-BrutalFoundry/Project-Theo)
+[Explore Project Theo](https://github.com/Brutal-BrutalFoundry/Project-Theo)
 
-## BrutalDash
+### BrutalDash
 
 **Public source · Released software**
 <table>
@@ -64,11 +68,11 @@ The case study examines research provenance and citation validation, context rec
 
 BrutalDash turns a BridgeThing-powered Car Thing into a customizable Windows PC telemetry dashboard. It combines hardware readings, game performance, device battery information, and local inference monitoring with saved layouts and themes.
 
-This project brings the work through to a usable release: Windows integration, device interaction, persistent settings, installable bundles, screenshots, and installation documentation. It is the public source and shipping side of the portfolio.
+I continue to improve BrutalDash through everyday use, with work on Windows integration, device support, saved settings, and the experience of installing and using it.
 
 [Browse the project](https://github.com/Brutal-BrutalFoundry/BrutalDash) · [Downloads](https://github.com/Brutal-BrutalFoundry/BrutalDash/releases) · [Installation](https://github.com/Brutal-BrutalFoundry/BrutalDash/blob/main/INSTALLATION.md)
 
-## BrutalPanel
+### BrutalPanel
 
 **Private source · In development**
 
@@ -76,8 +80,10 @@ BrutalPanel is a standalone Windows dashboard project building on the experience
 
 Development is at the foundation stage. Standalone hosting, local telemetry, customization, and reliable import and recovery are the next engineering milestones. BrutalDash remains the separate, free Car Thing edition.
 
-Thanks for taking a look. Each project offers a different view of how I approach design, implementation, and verification.
+Thanks for stopping by. Feel free to explore the projects, try a release, or get in touch.
 
 ## Get in touch
 
 For project enquiries or collaboration, email [BrutalFoundry@gmail.com](mailto:BrutalFoundry@gmail.com).
+
+Built by Brutal.
