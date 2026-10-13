@@ -66,7 +66,7 @@ Turn your system readings into part of your setup. BrutalDash brings game stats,
 
 ### BrutalDash for CarThing
 
-**Free CarThing edition · Public source · Released software**
+**Free CarThing edition · Released software**
 <table>
 <tr>
 <td width="50%"><a href="assets/brutaldash-v0.1.61.png"><img src="assets/brutaldash-v0.1.61.png" alt="BrutalDash hardware telemetry and media controls" width="400"></a><br><strong>Telemetry and media</strong></td>
