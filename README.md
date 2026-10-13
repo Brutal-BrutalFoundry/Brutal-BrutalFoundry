@@ -2,7 +2,7 @@
 
 **Software Developer | Systems Engineering, Automation & Applied AI**
 
-**Looking for BrutalDash?** [Downloads and release notes](https://github.com/Brutal-BrutalFoundry/BrutalDash/releases) · [Installation guide](https://github.com/Brutal-BrutalFoundry/BrutalDash/blob/main/INSTALLATION.md) · [Features](https://github.com/Brutal-BrutalFoundry/BrutalDash/blob/main/FEATURES.md)
+**Looking for BrutalDash?** [Get BrutalDash for Windows](https://brutalfoundry.itch.io/brutaldash) · [Screenshots and showcase](https://github.com/Brutal-BrutalFoundry/BrutalDash) · [Free CarThing edition](https://github.com/Brutal-BrutalFoundry/BrutalDash-for-CarThing)
 
 Hi, I'm Brutal, the developer behind BrutalFoundry.
 
@@ -52,7 +52,21 @@ I use Theo for research and development while working on persistent project cont
 
 ### BrutalDash
 
-**Public source · Released software**
+**Private source · Released Windows software · Version 1.0.0**
+
+[![One dashboard. Endless ways to make it yours.](https://raw.githubusercontent.com/Brutal-BrutalFoundry/BrutalDash/main/assets/banner.png)](https://brutalfoundry.itch.io/brutaldash)
+
+**Your PC stats. Your music. Your style.**
+
+Turn your system readings into part of your setup. BrutalDash brings game stats, music and personal style together in a Windows dashboard you can make your own.
+
+**US$4.99. One purchase. No subscription.**
+
+[Get BrutalDash for Windows](https://brutalfoundry.itch.io/brutaldash) · [Screenshots and showcase](https://github.com/Brutal-BrutalFoundry/BrutalDash)
+
+### BrutalDash for CarThing
+
+**Free CarThing edition · Public source · Released software**
 <table>
 <tr>
 <td width="50%"><a href="assets/brutaldash-v0.1.61.png"><img src="assets/brutaldash-v0.1.61.png" alt="BrutalDash hardware telemetry and media controls" width="400"></a><br><strong>Telemetry and media</strong></td>
@@ -70,20 +84,12 @@ BrutalDash turns a BridgeThing-powered Car Thing into a customizable Windows PC 
 
 I continue to improve BrutalDash through everyday use, with work on Windows integration, device support, saved settings, and the experience of installing and using it.
 
-[Browse the project](https://github.com/Brutal-BrutalFoundry/BrutalDash) · [Downloads](https://github.com/Brutal-BrutalFoundry/BrutalDash/releases) · [Installation](https://github.com/Brutal-BrutalFoundry/BrutalDash/blob/main/INSTALLATION.md)
-
-### BrutalPanel
-
-**Private source · In development**
-
-BrutalPanel is a standalone Windows dashboard project building on the experience behind BrutalDash. The goal is to let people shape a performance dashboard around their PC, with editable layouts, personal backgrounds, and portable designs that adapt to another machine’s hardware.
-
-Development is at the foundation stage. Standalone hosting, local telemetry, customization, and reliable import and recovery are the next engineering milestones. BrutalDash remains the separate, free Car Thing edition.
+[Browse the project](https://github.com/Brutal-BrutalFoundry/BrutalDash-for-CarThing) · [Downloads](https://github.com/Brutal-BrutalFoundry/BrutalDash-for-CarThing/releases) · [Installation](https://github.com/Brutal-BrutalFoundry/BrutalDash-for-CarThing/blob/main/INSTALLATION.md)
 
 Thanks for stopping by. Feel free to explore the projects, try a release, or get in touch.
 
 ## Get in touch
 
-For project enquiries or collaboration, email [BrutalFoundry@gmail.com](mailto:BrutalFoundry@gmail.com).
+Questions? [support@brutalfoundry.com](mailto:support@brutalfoundry.com)
 
 Built by Brutal.
